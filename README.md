@@ -11,6 +11,10 @@ Unity에서는 차량 이동 AI, 레이캐스트 기반 차간거리 제어,
 
 📌 Features
 🚗 Real-Time Traffic Simulation
+<img width="925" height="346" alt="image" src="https://github.com/user-attachments/assets/1b10f617-11de-47b2-a1fb-9fb1cdf6fe45" />
+<img width="867" height="458" alt="image" src="https://github.com/user-attachments/assets/f0ce9702-6ae2-40bf-978b-6d177a4c10ba" />
+<img width="879" height="466" alt="image" src="https://github.com/user-attachments/assets/34bdfa16-076a-4161-942d-6f98fd115998" />
+<img width="899" height="460" alt="image" src="https://github.com/user-attachments/assets/90758394-4b8a-41b7-b9b3-5bcede45bcd6" />
 
 서울 열린데이터 포털 TrafficInfo API 연동
 
